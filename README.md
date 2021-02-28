@@ -1,6 +1,8 @@
 # DB-Project
 
-Project created during Database Lab, database for company with food service.
+Project created during Databases Course at AGH UST.
+
+Database for company with food service.
 
 Projected and scripted in Microsoft SQL.
 
